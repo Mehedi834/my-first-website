@@ -1,0 +1,12 @@
+h1{
+    color:red;
+}
+ol{
+    border:10px solid green;
+    width:500px;
+    height:300px;
+    margin:20px auto;
+    padding:20px auto;
+    text-align:center;
+
+}
